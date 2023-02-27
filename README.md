@@ -61,7 +61,15 @@ Falls du einen Bug melden möchtest, kannst du dies ganz bequem über
 Du kannst relative einfach ein Feature vorschlagen. Gehe dazu einfach auf unseren [Discord](https://discord.com/invite/eKgkSz7WQQ) oder auf unseren [INSU Website](https://insu.the-flames.de) und fülle unten das Feature Formular aus.
 
 
-## Documentation
 
-[Documentation](https://linktodocumentation)
+## API's
+
+Folgende API's wurden verwendet
+
+| API | VERSION     | BESCHREIBUNG                | URL |
+| :-------- | :------- | :------------------------- | :--|
+| Java Discord API (JDA) | 5.0.0-beta.4 | Um Discord Bots in Java anzusteueren. | https://jda.wiki |
+|Jitpack IO| LATEST| Library für viele Maven Anwendungen|https://jitpack.io/|
+
+
 
