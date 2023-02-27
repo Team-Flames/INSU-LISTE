@@ -6,12 +6,12 @@ Hier kannst du Offiziele Bilder, Codes, API's und Bug sowie Feature Request anfr
 
 ## Inhaltsverzeichniss
 
- - [FAQ]()
- - [Neuerungen]()
- - [Einen Bug Melden](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Ein Feature Vorschlagen](https://github.com/matiassingers/awesome-readme)
- - [Verwendete API's](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Code Beispiele]()
+ - [FAQ](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
+ - [Neuerungen](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#Neuerungen)
+ - [Einen Bug Melden](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
+ - [Ein Feature Vorschlagen](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
+ - [Verwendete API's](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
+ - [Code Beispiele](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
 
 
 
