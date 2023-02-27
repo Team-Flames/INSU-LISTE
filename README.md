@@ -9,9 +9,9 @@ Hier kannst du Offiziele Bilder, Codes, API's und Bug sowie Feature Request anfr
  - [FAQ](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
  - [Neuerungen](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#Neuerungen)
  - [Einen Bug Melden](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
- - [Ein Feature Vorschlagen](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
- - [Verwendete API's](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
- - [Code Beispiele](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#faq)
+ - [Ein Feature Vorschlagen](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#Ein-Feature-Vorschlagen)
+ - [Verwendete API's](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#Verwendete-API's)
+ - [Code Beispiele](https://github.com/Team-Flames/INSU-LISTE/blob/main/README.md#Code-Beispiele)
 
 
 
